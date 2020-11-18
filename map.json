@@ -6152,6 +6152,58 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":1385,
+         "image":"tilesets_deviant_milkian_2.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"office_2",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":1641,
+         "image":"tilesets_deviant_milkian_3.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"office_3",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":1897,
+         "image":"sofas.png",
+         "imageheight":352,
+         "imagewidth":256,
+         "margin":0,
+         "name":"sofas",
+         "spacing":0,
+         "tilecount":88,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":1985,
+         "image":"sapins.png",
+         "imageheight":384,
+         "imagewidth":256,
+         "margin":0,
+         "name":"christmas",
+         "spacing":0,
+         "tilecount":96,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
